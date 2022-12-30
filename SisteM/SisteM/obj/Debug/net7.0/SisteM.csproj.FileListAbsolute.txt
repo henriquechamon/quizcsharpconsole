@@ -1,0 +1,15 @@
+C:\Users\Cliente\source\repos\SisteM\SisteM\bin\Debug\net7.0\SisteM.exe
+C:\Users\Cliente\source\repos\SisteM\SisteM\bin\Debug\net7.0\SisteM.deps.json
+C:\Users\Cliente\source\repos\SisteM\SisteM\bin\Debug\net7.0\SisteM.runtimeconfig.json
+C:\Users\Cliente\source\repos\SisteM\SisteM\bin\Debug\net7.0\SisteM.dll
+C:\Users\Cliente\source\repos\SisteM\SisteM\bin\Debug\net7.0\SisteM.pdb
+C:\Users\Cliente\source\repos\SisteM\SisteM\obj\Debug\net7.0\SisteM.csproj.AssemblyReference.cache
+C:\Users\Cliente\source\repos\SisteM\SisteM\obj\Debug\net7.0\SisteM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\source\repos\SisteM\SisteM\obj\Debug\net7.0\SisteM.AssemblyInfoInputs.cache
+C:\Users\Cliente\source\repos\SisteM\SisteM\obj\Debug\net7.0\SisteM.AssemblyInfo.cs
+C:\Users\Cliente\source\repos\SisteM\SisteM\obj\Debug\net7.0\SisteM.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\source\repos\SisteM\SisteM\obj\Debug\net7.0\SisteM.dll
+C:\Users\Cliente\source\repos\SisteM\SisteM\obj\Debug\net7.0\refint\SisteM.dll
+C:\Users\Cliente\source\repos\SisteM\SisteM\obj\Debug\net7.0\SisteM.pdb
+C:\Users\Cliente\source\repos\SisteM\SisteM\obj\Debug\net7.0\SisteM.genruntimeconfig.cache
+C:\Users\Cliente\source\repos\SisteM\SisteM\obj\Debug\net7.0\ref\SisteM.dll
